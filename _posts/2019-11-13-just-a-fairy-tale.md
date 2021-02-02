@@ -7,7 +7,7 @@ author:     fuze 						# 作者
 header-img: img/[终之花汉化组]永不枯萎的世界与终结之花（禁止直播录播移植&与某大公司无关） 2019_11_13 3_49_43.png #这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
-    - Galame
+    - Galgame
     - 游戏
 ---
 
