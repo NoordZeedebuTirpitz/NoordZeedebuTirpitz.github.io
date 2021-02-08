@@ -56,6 +56,7 @@ kramdown:
 # disqus_username: NoordZeedebuTirpitz
 
 # Gitalk
+
 gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 07dc5970544edc6d7db3   #生成的clientID
