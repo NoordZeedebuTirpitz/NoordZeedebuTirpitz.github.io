@@ -55,6 +55,15 @@ kramdown:
 # Disqus（https://disqus.com/）
 # disqus_username: NoordZeedebuTirpitz
 
+# Gitalk
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: 07dc5970544edc6d7db3   #生成的clientID
+  clientSecret: 2416f8d7a4acf0979d2d6d249ecc2f96a089a922  #同上
+  repo: noordzeedebutirpitz.github.io/    #仓库名称
+  owner: NoordZeedebuTirpitz    #github用户名
+  admin: NoordZeedebuTirpitz
+
 # 统计
 
 # Analytics settings
