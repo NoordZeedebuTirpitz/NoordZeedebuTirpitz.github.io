@@ -101,7 +101,7 @@ tags:								#标签
 
 ![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Snipaste_2021-02-06_11-14-51.png)
 
-至于后面结了婚后，虽然念头上是通达了，但总感觉少了点意思。讲得更芝诺一点，前女友的魅力就在于前女友这个标签，复合了的话姬野永远也就是个普通的黑长直毒舌女朋友罢了。
+至于后面结婚之后，虽然念头上是通达了，但总感觉少点意思。讲得更芝诺一点，前女友的魅力就在于前女友这个标签，复合了的话姬野永远也就是个普通的黑长直毒舌女朋友罢了。
 
 ![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Snipaste_2021-01-30_11-30-15.png)
 
