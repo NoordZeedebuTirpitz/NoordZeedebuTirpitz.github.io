@@ -4,7 +4,7 @@ title:      如果你追前女友追太快，就会一下子跑到她前面去�
 subtitle:   永不落幕的前奏nǚ诗yǒu         #副标题
 date:       2021-02-07 				# 时间
 author:     fuze 						# 作者
-header-img: img/Snipaste_2021-02-08_16-44-19.png
+header-img: img/Snipaste_2021-02-03_15-15-37.png
 catalog: true 						# 是否归档
 tags:								#标签
     - Galgame
