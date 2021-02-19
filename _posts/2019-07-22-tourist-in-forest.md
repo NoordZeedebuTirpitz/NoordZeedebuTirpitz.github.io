@@ -21,7 +21,7 @@ tags:								#标签
 
 于是乎我们便在7月12日早上，坐上了去往白山市的大巴（然后一连做了八个钟头）
 
-一路上天气略阴，让人不禁担心明天能否顺利看见天池  ![lutu](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_0931.JPG)
+一路上天气略阴，让人不禁担心明天能否顺利看见天池  ![lutu](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_0931.JPG)
 
 # XXX森林公园
 > 额，名字我真的忘了
@@ -36,20 +36,20 @@ tags:								#标签
 当然，如果事先抹点风油精就更好了
 
 在树林外围拍摄的，被绿树掩映的烂尾楼，有种《尼尔》里面废墟都市的感觉：
-![nier](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_0938.JPG)
+![nier](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_0938.JPG)
 
 爬上青苔的木制走道：
-![qingtai](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_0947.JPG)
+![qingtai](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_0947.JPG)
 
 树林与阳光：
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_0955.JPG)
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_0957.JPG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_0955.JPG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_0957.JPG)
 
 远处的流水：
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_0964.JPG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_0964.JPG)
 
 额，我拍了只鸟，真的：
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_0969.JPG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_0969.JPG)
 
 
 从公园出来的时候已经四点多钟了，导游带我们找到地方吃了团餐，便送我们回了宾馆，抱团旅游确实这点要好，什么都不用操心，甚至晚上还能有闲心出去压会马路（）
@@ -61,54 +61,54 @@ tags:								#标签
 早上吃完早饭，大巴车便开始带我们一路上山，大部分的时间里，道路两侧都是高耸的松树，而我们则像是在林海里穿行
 
 途中停靠的某公厕顶：
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_1010.JPG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_1010.JPG)
 
 又经过了一个多小时的盘山道车程，我们才看见了长白山北坡的大门口，此时天气正晴，只有隐约可见的山顶被几朵阴云环绕，排队进入后，就开始换乘长白山景区当地提供的面包车上山
 
 直到这时，我才体会到什么叫真正的盘山公路...
 
 面包车在七十二个发卡弯的盘山公路上平稳的行驶，坐在车内不仅感慨驾驶员技巧的娴熟，当然，该晃还是会晃的
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_1019.JPG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_1019.JPG)
 
 在上到将近两千米的时候，两侧就已经没有乔木了，取而代之的是稀稀拉拉的灌木丛
 
 海拔两千二百米，云雾开始将我们环绕，灌木也不见踪影，只剩满地的青苔，还有不知名的小花
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_1079.JPG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_1079.JPG)
 
 海拔两千五百米，云消雾散，豁然开朗，已经可以看见山顶上...
 
 全是人了...
 
 北坡顶有两条观景路线，鉴于A线人有点多，所以我们先去的B线，但是此时的天池还被云雾笼罩着，看不清它的真面目
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_1026.JPG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_1026.JPG)
 等待无果后，转身往A线去排队
 
 下面排队的人，人，全是人：
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_1035.JPG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_1035.JPG)
 
 其实也没多长时间，经过景区的限流后我们也走上了A线，而云雾在这时也适时地散去，幸而观赏到了天池的全貌，此时天朗气清，惠风和畅，正是一览美景的好机会
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_1071.JPG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_1071.JPG)
 
 在天池对岸还有朝鲜人建的楼梯，能直达天池水面，羡慕.jpg
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_1054.JPG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_1054.JPG)
 
 顺便还在山上唯一的站点留了一只Pokemon
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_1085.jpg)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_1085.jpg)
 
 上完天池之后的行程是下山看峡谷，还有绿渊潭，一路下来见到各式的花花草草，鉴于上传不便的原因也不一一列出（我也都不认识）
 
 顺着山道直到谷底附近,回过神来时已被林海包围，密密麻麻的针叶树无边无际的延伸，从天池瀑布流淌下来的水在山崖下
 哗啦啦的响，奔流不息，直到最后汇聚成了惠及整个东三省的松花江
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_1142.JPG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_1142.JPG)
 
 再往前看，就是天池的又一奇景——谷底森林，整片的森林由于火山活动或者其他的原因沉入谷底，但也在这样的自然环境下资意生长，站在观景台上，低头是此起彼伏的森林，抬头是一望无际的天空，此情此景，无以言表（咳，没词了，上图）
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_1137.JPG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_1137.JPG)
 
 还有在台阶之外拍下的一块石头，旁边还有一些貌似是腐烂的木质结构和基座：
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_1140.JPG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_1140.JPG)
 
 在谷底待了一会，我们便踏上了归途
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_1145.JPG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_1145.JPG)
 
 # 西坡
 > 2019年7月14日，阴，时雨
@@ -116,7 +116,7 @@ tags:								#标签
 今天的行程比较赶，所以提前出发去了天池新修的西门，虽说每一坡看天池都有不同的景致，但显然我已经失去了昨天的干劲，毕竟全是人人人...我讨厌人多...
 
 经过一段时间的排队，我们也顺利进入了景区，不过当然还是要坐车上山...
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_1181.JPG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_1181.JPG)
 跟北坡不同的是，西坡不是直接送人上山，而是送上半山腰，上山顶的路则需要走一段1400+的台阶上去...（虽然我不懂意义何在不过大家都一副斗志昂扬的样子...）
 
 站在台阶的起点，前进的方向被云雾一点点的遮掩，古词中所述的“长桥卧波”仿佛就在描述此地，轻轻踏上第一个台阶，向山进发
@@ -124,21 +124,21 @@ tags:								#标签
 幸好之前有买杯面，不然爬这台阶是挺难熬的...
 
 走到大半回头望去：
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_1203.JPG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_1203.JPG)
 现在想想当时好像也没费太大功夫就登上了山顶...
 
 西坡的观景台没有北坡那么大，但是感觉视野更加良好，可惜今天的雾气较大，也没有散开的迹象，不能清楚的看到天池的全貌，不过，云雾缭绕的天池，也是别有一番韵味的
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_1210.JPG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_1210.JPG)
 还有全景图：
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_1213.JPG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_1213.JPG)
 约莫着到了中午，也没有放晴和雾散的迹象（途中好像有一段时间散雾但是我没有拍到），抱着些微的遗憾，沿着1400道台阶下了山
 
 临下山前，拍摄的界碑：
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_1216.JPG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_1216.JPG)
 
 其实除了天池，长白山的景色也是十分优美，在自然保护区内，视线之内的都是绿树青山，呼吸到的都是微湿的空气，还有开满花卉的高山花园，沉醉其中，迷幻恍若仙境
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_1229.JPG)
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_1245.JPG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_1229.JPG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_1245.JPG)
 
 又到了定番内容下山看谷，锦江峡谷是由火山喷发引起山体分裂产生的，其与谷底森林也各有不同，无数岩石耸立在谷底，被风蚀或者水流冲刷成各种形状，可惜由于
 天气状况不佳，谷底也就是走马观花，最后还是冒着雨向返回山门
@@ -153,6 +153,6 @@ tags:								#标签
 应该也是长白山景区环境保护的如此好的原因之一（不过我十分好奇实行垃圾分类后这么多垃圾箱要怎么摆hhh）
 
 最后再补一张图，在白山市照的：
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_0978.JPG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_0978.JPG)
 
 总之，感谢您耐着性子看完了这篇流水账，虽然为了方便打开网页将一些图片进行了惨无人道的高压缩，但速度仍然堪忧，并且由于技术原因导致图片规格很大，观感不是很好，在之后会继续调整，本博也将继续随缘更新，不过应该还是宅向内容较多，毕竟这个月的行动点数已经用完了，谢谢大家
