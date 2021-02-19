@@ -59,7 +59,7 @@ tags:								#标签
 
 在别人的帮助下，圣带着琴濑找回了她失去已久的“悲伤”，并通过莲的帮助夺走了她的天使之力，由自己来承担这腐蚀心灵的痛苦
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/%5B%E7%BB%88%E4%B9%8B%E8%8A%B1%E6%B1%89%E5%8C%96%E7%BB%84%5D%E6%B0%B8%E4%B8%8D%E6%9E%AF%E8%90%8E%E7%9A%84%E4%B8%96%E7%95%8C%E4%B8%8E%E7%BB%88%E7%BB%93%E4%B9%8B%E8%8A%B1%EF%BC%88%E7%A6%81%E6%AD%A2%E7%9B%B4%E6%92%AD%E5%BD%95%E6%92%AD%E7%A7%BB%E6%A4%8D%26%E4%B8%8E%E6%9F%90%E5%A4%A7%E5%85%AC%E5%8F%B8%E6%97%A0%E5%85%B3%EF%BC%89%202019_11_13%200_48_41.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/%5B%E7%BB%88%E4%B9%8B%E8%8A%B1%E6%B1%89%E5%8C%96%E7%BB%84%5D%E6%B0%B8%E4%B8%8D%E6%9E%AF%E8%90%8E%E7%9A%84%E4%B8%96%E7%95%8C%E4%B8%8E%E7%BB%88%E7%BB%93%E4%B9%8B%E8%8A%B1%EF%BC%88%E7%A6%81%E6%AD%A2%E7%9B%B4%E6%92%AD%E5%BD%95%E6%92%AD%E7%A7%BB%E6%A4%8D%26%E4%B8%8E%E6%9F%90%E5%A4%A7%E5%85%AC%E5%8F%B8%E6%97%A0%E5%85%B3%EF%BC%89%202019_11_13%200_48_41.png)
 
 >已经不用再哭了
 >
@@ -69,7 +69,7 @@ tags:								#标签
 
 圣随后又帮助雪奈坦诚面对，再次寻求到了亲情所带来的快乐，也再次承担了雪奈的责任，独自承受第二次的心灵腐蚀
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/%5B%E7%BB%88%E4%B9%8B%E8%8A%B1%E6%B1%89%E5%8C%96%E7%BB%84%5D%E6%B0%B8%E4%B8%8D%E6%9E%AF%E8%90%8E%E7%9A%84%E4%B8%96%E7%95%8C%E4%B8%8E%E7%BB%88%E7%BB%93%E4%B9%8B%E8%8A%B1%EF%BC%88%E7%A6%81%E6%AD%A2%E7%9B%B4%E6%92%AD%E5%BD%95%E6%92%AD%E7%A7%BB%E6%A4%8D%26%E4%B8%8E%E6%9F%90%E5%A4%A7%E5%85%AC%E5%8F%B8%E6%97%A0%E5%85%B3%EF%BC%89%202019_11_13%200_56_36.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/%5B%E7%BB%88%E4%B9%8B%E8%8A%B1%E6%B1%89%E5%8C%96%E7%BB%84%5D%E6%B0%B8%E4%B8%8D%E6%9E%AF%E8%90%8E%E7%9A%84%E4%B8%96%E7%95%8C%E4%B8%8E%E7%BB%88%E7%BB%93%E4%B9%8B%E8%8A%B1%EF%BC%88%E7%A6%81%E6%AD%A2%E7%9B%B4%E6%92%AD%E5%BD%95%E6%92%AD%E7%A7%BB%E6%A4%8D%26%E4%B8%8E%E6%9F%90%E5%A4%A7%E5%85%AC%E5%8F%B8%E6%97%A0%E5%85%B3%EF%BC%89%202019_11_13%200_56_36.png)
 
 >没错，恨我吧，憎恨天使的力量
 >
@@ -121,17 +121,17 @@ tags:								#标签
 
 就像前面说的那样，秋人最终向春琉表明了自己的身份，完成了约定，也拿到了最后一份的天使之力
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/%5B%E7%BB%88%E4%B9%8B%E8%8A%B1%E6%B1%89%E5%8C%96%E7%BB%84%5D%E6%B0%B8%E4%B8%8D%E6%9E%AF%E8%90%8E%E7%9A%84%E4%B8%96%E7%95%8C%E4%B8%8E%E7%BB%88%E7%BB%93%E4%B9%8B%E8%8A%B1%EF%BC%88%E7%A6%81%E6%AD%A2%E7%9B%B4%E6%92%AD%E5%BD%95%E6%92%AD%E7%A7%BB%E6%A4%8D%26%E4%B8%8E%E6%9F%90%E5%A4%A7%E5%85%AC%E5%8F%B8%E6%97%A0%E5%85%B3%EF%BC%89%202019_11_9%200_11_31.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/%5B%E7%BB%88%E4%B9%8B%E8%8A%B1%E6%B1%89%E5%8C%96%E7%BB%84%5D%E6%B0%B8%E4%B8%8D%E6%9E%AF%E8%90%8E%E7%9A%84%E4%B8%96%E7%95%8C%E4%B8%8E%E7%BB%88%E7%BB%93%E4%B9%8B%E8%8A%B1%EF%BC%88%E7%A6%81%E6%AD%A2%E7%9B%B4%E6%92%AD%E5%BD%95%E6%92%AD%E7%A7%BB%E6%A4%8D%26%E4%B8%8E%E6%9F%90%E5%A4%A7%E5%85%AC%E5%8F%B8%E6%97%A0%E5%85%B3%EF%BC%89%202019_11_9%200_11_31.png)
 
 这时的秋人明显感受到自己已经撑不住了，他回到了大树的顶端，发现彩虹色的花也已经枯萎了，毕竟没有人去协助神明维持世界的运转，整个世界也是岌岌可危，秋人按照约定赶来了，他奉献了自己的生命，最终保住了世界的稳定...
 
 可是神明最终怜悯了秋人，他还是活了下来，世界也没有因为失去天使而变得更糟，反而变成了一个更加美好的，再也不会有人消失的世界，而三姐妹也想起了秋人，小时候他们一起度过的时光和那份亲情，想起了他们是家人的这一事实
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/%5B%E7%BB%88%E4%B9%8B%E8%8A%B1%E6%B1%89%E5%8C%96%E7%BB%84%5D%E6%B0%B8%E4%B8%8D%E6%9E%AF%E8%90%8E%E7%9A%84%E4%B8%96%E7%95%8C%E4%B8%8E%E7%BB%88%E7%BB%93%E4%B9%8B%E8%8A%B1%EF%BC%88%E7%A6%81%E6%AD%A2%E7%9B%B4%E6%92%AD%E5%BD%95%E6%92%AD%E7%A7%BB%E6%A4%8D%26%E4%B8%8E%E6%9F%90%E5%A4%A7%E5%85%AC%E5%8F%B8%E6%97%A0%E5%85%B3%EF%BC%89%202019_11_13%203_50_09.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/%5B%E7%BB%88%E4%B9%8B%E8%8A%B1%E6%B1%89%E5%8C%96%E7%BB%84%5D%E6%B0%B8%E4%B8%8D%E6%9E%AF%E8%90%8E%E7%9A%84%E4%B8%96%E7%95%8C%E4%B8%8E%E7%BB%88%E7%BB%93%E4%B9%8B%E8%8A%B1%EF%BC%88%E7%A6%81%E6%AD%A2%E7%9B%B4%E6%92%AD%E5%BD%95%E6%92%AD%E7%A7%BB%E6%A4%8D%26%E4%B8%8E%E6%9F%90%E5%A4%A7%E5%85%AC%E5%8F%B8%E6%97%A0%E5%85%B3%EF%BC%89%202019_11_13%203_50_09.png)
 
 最后是这些被圣所拯救的孩子，一同在她的墓碑前献上花环，而后迎来了故事的结局
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/%5B%E7%BB%88%E4%B9%8B%E8%8A%B1%E6%B1%89%E5%8C%96%E7%BB%84%5D%E6%B0%B8%E4%B8%8D%E6%9E%AF%E8%90%8E%E7%9A%84%E4%B8%96%E7%95%8C%E4%B8%8E%E7%BB%88%E7%BB%93%E4%B9%8B%E8%8A%B1%EF%BC%88%E7%A6%81%E6%AD%A2%E7%9B%B4%E6%92%AD%E5%BD%95%E6%92%AD%E7%A7%BB%E6%A4%8D%26%E4%B8%8E%E6%9F%90%E5%A4%A7%E5%85%AC%E5%8F%B8%E6%97%A0%E5%85%B3%EF%BC%89%202019_11_13%203_58_17.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/%5B%E7%BB%88%E4%B9%8B%E8%8A%B1%E6%B1%89%E5%8C%96%E7%BB%84%5D%E6%B0%B8%E4%B8%8D%E6%9E%AF%E8%90%8E%E7%9A%84%E4%B8%96%E7%95%8C%E4%B8%8E%E7%BB%88%E7%BB%93%E4%B9%8B%E8%8A%B1%EF%BC%88%E7%A6%81%E6%AD%A2%E7%9B%B4%E6%92%AD%E5%BD%95%E6%92%AD%E7%A7%BB%E6%A4%8D%26%E4%B8%8E%E6%9F%90%E5%A4%A7%E5%85%AC%E5%8F%B8%E6%97%A0%E5%85%B3%EF%BC%89%202019_11_13%203_58_17.png)
 
 >我会一直守护大家的
 >
@@ -141,7 +141,7 @@ tags:								#标签
 
 正如标题所言，枯れない世界と終わる花这个故事是一个彻头彻尾的童话，属于那种可以直接讲给还在上幼儿园的我弟听的水平，其实并不算出乎意料吧，毕竟脚本和企划是那个雪仁啊，至于他是个什么风格的，我举个例子就很容易明白，“猫娘乐园”，对，就是那个nekopara，steam上最火的第一人称射击游戏之一
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/33.PNG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/33.PNG)
 
 整部游戏的很多描写都充满了童话风的味道，比如各种色彩鲜明的花朵背景，还有一些文字上的表达，至于对世界观的解释也只是有一句“要有天使把人变成花来维持世界的运转”，所以这故事本身也不是很严谨，好像很多问题也没有解释的样子，毕竟只是个童话嘛，虽然结尾有点强行Happy End，但总体看也算个不错的故事，所以我也一个HS的剧情都没有选，可能我更喜欢他们这种家人一样的关系吧
 
@@ -153,6 +153,6 @@ tags:								#标签
 
 也不是很扯嘛，就像公主最后都会和王子在一起，一家人终究会团聚
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/%5B%E7%BB%88%E4%B9%8B%E8%8A%B1%E6%B1%89%E5%8C%96%E7%BB%84%5D%E6%B0%B8%E4%B8%8D%E6%9E%AF%E8%90%8E%E7%9A%84%E4%B8%96%E7%95%8C%E4%B8%8E%E7%BB%88%E7%BB%93%E4%B9%8B%E8%8A%B1%EF%BC%88%E7%A6%81%E6%AD%A2%E7%9B%B4%E6%92%AD%E5%BD%95%E6%92%AD%E7%A7%BB%E6%A4%8D%26%E4%B8%8E%E6%9F%90%E5%A4%A7%E5%85%AC%E5%8F%B8%E6%97%A0%E5%85%B3%EF%BC%89%202019_11_13%203_49_22.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/%5B%E7%BB%88%E4%B9%8B%E8%8A%B1%E6%B1%89%E5%8C%96%E7%BB%84%5D%E6%B0%B8%E4%B8%8D%E6%9E%AF%E8%90%8E%E7%9A%84%E4%B8%96%E7%95%8C%E4%B8%8E%E7%BB%88%E7%BB%93%E4%B9%8B%E8%8A%B1%EF%BC%88%E7%A6%81%E6%AD%A2%E7%9B%B4%E6%92%AD%E5%BD%95%E6%92%AD%E7%A7%BB%E6%A4%8D%26%E4%B8%8E%E6%9F%90%E5%A4%A7%E5%85%AC%E5%8F%B8%E6%97%A0%E5%85%B3%EF%BC%89%202019_11_13%203_49_22.png)
 
 虽然我们都长大了，虽然我们都知道童话里都是遥不可及的，可是偶尔这样期待一下，不也挺好的吗
