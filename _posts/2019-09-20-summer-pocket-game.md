@@ -27,7 +27,7 @@ tags:								#标签
 
 在一阵基♂情对削之后——
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Summer%20Pockets%20%EF%BC%97%E6%9C%88%EF%BC%92%EF%BC%99%E6%97%A5%202019_9_20%2021_16_52.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Summer%20Pockets%20%EF%BC%97%E6%9C%88%EF%BC%92%EF%BC%99%E6%97%A5%202019_9_20%2021_16_52.png)
 
 我才是传说中的桌.球.王！（指成就）
 
@@ -42,30 +42,30 @@ tags:								#标签
 3.用这些卡牌去和岛民和岛上的动物（？）对战，并登上排行榜的No.1
 
 诱饵不仅是一些零碎垃圾，食物到黄书，陈年老酒，甜点，还有...
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%97%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2017_49_02.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%97%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2017_49_02.png)
 emmmmm甚至还触发了奇怪的对话...
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%97%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2017_52_34.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%97%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2017_52_34.png)
 以及在sl的过程中出现的另一种对话，槽点满满...
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%97%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2018_02_47.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%97%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2018_02_47.png)
 
 除了这些奇奇怪怪的诱饵，"岛可梦"卡牌也包含了各种匪夷所思的东西
 
 除去三星及以下的各种岛屿生活动物，四星卡包括了一些看起来就很强力的生物以及...主角的两个基友和稻荷（都是被某个白色布片钓出来的）
 比如天善第一次被钓上来的场景...
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%97%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2017_56_05%20(2).png)
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%97%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2017_56_19.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%97%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2017_56_05%20(2).png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%97%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2017_56_19.png)
 还有第二次被钓上来的场景...
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%91%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2019_47_32.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%91%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2019_47_32.png)
 你这浓眉大眼的还有什么好说的！！！
 
 至于五星卡...则是四个被酒和黄书钓上来的糟老头子
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_3069.JPG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_3069.JPG)
 据说还有一张主角卡名为"黄龙"（可惜我到底还是没抽到）
 
 对战过程中，基友上场还能与各女角色产生相声剧情
 比如...
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%97%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2018_17_05.png)
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%97%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2018_17_11.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%97%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2018_17_05.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%97%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2018_17_11.png)
 
 至于基友与基友的对战则...
 
@@ -82,9 +82,9 @@ emmmmm甚至还触发了奇怪的对话...
 ————直到我被隐藏Boss虐的体无完肤，我才明白**这方便的sl设定充满了staff对玩家的人道主义关怀**
 
 当我在开局通过sl抽卡击败羽未，登上前十名，再一路过关斩将，将排行榜第一的"玄武"（就是白羽的爷爷）淦翻的时候，这老头往旁一闪，说"在我之上其实还有一人"，伴随着一阵时空乱流，整座岛陷入灰暗，而只有正中间散发着光芒，存在于其中的便是...
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%94%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2020_11_17.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%94%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2020_11_17.png)
 随之而来的就是隐藏Boss战，也就是苍的姐姐，蓝
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%94%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2020_09_54.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%94%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2020_09_54.png)
 
 玩游戏的各位都对隐藏Boss的设定有一定认识，"强"便是第一要务
 
@@ -100,7 +100,7 @@ emmmmm甚至还触发了奇怪的对话...
 
 然而迎接玩家的，不是排行榜No.1，而是小游戏的终结（**剧透警告**）
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%94%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2020_52_52.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%94%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2020_52_52.png)
 
 原来，整个岛可梦小游戏，就是蓝带给全岛人的一场梦境
 
@@ -110,8 +110,8 @@ emmmmm甚至还触发了奇怪的对话...
 
 制作出来的一场，彻彻底底的梦
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%94%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2020_53_57.png)
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%94%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2020_54_06.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%94%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2020_53_57.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%94%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2020_54_06.png)
 
 ...就算是一场梦又如何呢，岛上的每个人都享受到了这个游戏的乐趣，热衷于收集卡牌然后"对战"
 
@@ -127,13 +127,13 @@ emmmmm甚至还触发了奇怪的对话...
 
 "我"却不会
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%94%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2020_54_51.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%94%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2020_54_51.png)
 
 "我一直守望着你..."
 
 随着男主在醒来后对着苍说出这样无厘头的一句话之后，小游戏也迎来了属于她，或者说蓝的专属ED
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%94%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2020_59_33.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Summer%20Pockets%20%EF%BC%98%E6%9C%88%EF%BC%94%E6%97%A5%20%20%20%E6%9E%AB%E7%AC%9B%E6%B1%89%E5%8C%96%E7%BB%84%EF%BC%B6%EF%BD%85%EF%BD%92%EF%BC%91%EF%BC%8E%EF%BC%95%202019_9_20%2020_59_33.png)
 
 纵观sp这个游戏，如果说alka线与pocket线是对白羽和羽未这对母女的情感补完及升华这是我早就料到并且经历的
 
