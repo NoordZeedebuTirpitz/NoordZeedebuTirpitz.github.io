@@ -26,7 +26,13 @@ emmmm听我吹了这些字，估计没人能听懂我在讲啥，嗯其实我也
 
 虽然Meis Clauson一般都是和yuiko组合，名叫Primary发行歌曲，所以拿yuiko作词，Meis Clauson编曲的歌推荐更好，但是出于私心，首推还是给了这首[beloved story](http://music.163.com/song?id=447279650&userid=80899584)，《銀色、遥か》里名白椛线的角色曲
 
-<embed src="//music.163.com/style/swf/widget.swf?sid=447279650&type=2&auto=0&width=320&height=66" width="340" height="86"  allowNetworking="all">
+<div id="cincopa_868ad2">...</div><script type="text/javascript">
+var cpo = []; cpo["_object"] ="cincopa_868ad2"; cpo["_fid"] = "AAIAty-oolgv";
+var _cpmp = _cpmp || []; _cpmp.push(cpo);
+(function() { var cp = document.createElement("script"); cp.type = "text/javascript";
+cp.async = true; cp.src = "https://rtcdn.cincopa.com/libasync.js";
+var c = document.getElementsByTagName("script")[0];
+c.parentNode.insertBefore(cp, c); })(); </script>
 
 >I wish forever with you,promise to my dearest 飾らない言葉で/我愿永远留在你身边，用着毫无修饰的话语许下承诺
 >
@@ -44,13 +50,11 @@ emmmm听我吹了这些字，估计没人能听懂我在讲啥，嗯其实我也
 >
 >ring a bell,kiss and wish come true/钟声响起，用吻让这愿望成真吧
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/top.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/top.png)
 
 另外这部游戏里的另一首由Meis Clauson编曲，Duca演唱的[コイイロセカイ](http://music.163.com/song?id=447279647&userid=80899584)也非常值得一听
 
 像这种较快节奏的热情风格，能体现更明显一点的就是这首[GLORIOUS DAYS](http://music.163.com/song?id=410446184&userid=80899584)（《恋×シンアイ彼女》插入曲），里面甚至有我最喜欢也很少见的日文里的押韵
-
-<embed src="//music.163.com/style/swf/widget.swf?sid=410446184&type=2&auto=0&width=320&height=66" width="340" height="86"  allowNetworking="all">
 
 >何処かで聞いたメロディ /不知何处飘入耳中的旋律 
 >
@@ -76,7 +80,7 @@ emmmm听我吹了这些字，估计没人能听懂我在讲啥，嗯其实我也
 
 可能是跟游戏内容有关，虽然不是很了解，但这几句确实打动了我~~等我把riddle joker的妹妹线走完就去推恋×シンアイ彼女~~
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/mainvisual.jpg)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/mainvisual.jpg)
 
 其实除了上述两种风格，Meis Clauson也是编过萌系曲的，像是那个《黄金拼图》OP[Jumping!!](http://music.163.com/song?id=27506128&userid=80899584)，最后一句会被空耳成“萝莉控爱的诱惑”，顺便，第二季的OP也是他编曲
 
@@ -92,7 +96,7 @@ emmmm听我吹了这些字，估计没人能听懂我在讲啥，嗯其实我也
 
 所以我向大家推荐这位作曲者的作品，和作曲者本人
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/%E6%8D%95%E8%8E%B7.PNG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/%E6%8D%95%E8%8E%B7.PNG)
 
 有时间会拉一个歌单，不过要等之后的再说，当然如果现在就想了解这位作曲者的话，[这里](http://meisclauson.com/index.html)有关于Meis Clauson所有参加制作的歌曲情报
 
