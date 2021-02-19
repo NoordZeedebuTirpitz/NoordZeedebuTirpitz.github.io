@@ -18,7 +18,7 @@ tags:
 
 于是之后两天，趁着课程不是很多，摸索着搭建了以笔记本为本地服务器，surface为客户端的初级平台，传输速度也比想象中的要好得多
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_1076.JPG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_1076.JPG)
 
 至于这些步骤也都会在下文深入浅出，一一介绍
 
@@ -32,15 +32,15 @@ tags:
 
 打开[Emby的官网](https://emby.media/download.html)，按照想要作为服务器的机器的系统选择对应的Emby服务端插件并安装
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Emby%20Server%20for%20Windows%20-%20Google%20Chrome%202019_12_2%2012_41_43.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Emby%20Server%20for%20Windows%20-%20Google%20Chrome%202019_12_2%2012_41_43.png)
 
 安装完成后会弹出设置引导，首先是选择语言，这里就选择`Chinese Simplified（简体中文）`，然后`next→`
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Emby%20Server%20for%20Windows%20-%20Google%20Chrome%202019_12_2%2012_46_03.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Emby%20Server%20for%20Windows%20-%20Google%20Chrome%202019_12_2%2012_46_03.png)
 
 创建一个管理服务器的用户，填入用户名以及密码，下面的可以不填
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Emby%20-%20Google%20Chrome%202019_12_3%2020_48_19.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Emby%20-%20Google%20Chrome%202019_12_3%2020_48_19.png)
 
 下一页的话，暂时先不用添加媒体库，直接点`next→`
 
@@ -56,13 +56,13 @@ tags:
 
 进入页面后，点击左上角的“三”→`管理Emby服务器`进入控制台
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/%E6%8E%A7%E5%88%B6%E5%8F%B0%20-%20Google%20Chrome%202019_12_3%2023_51_19.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/%E6%8E%A7%E5%88%B6%E5%8F%B0%20-%20Google%20Chrome%202019_12_3%2023_51_19.png)
 
 左侧的项目可以都浏览一遍~~虽然有的我也看不懂就是了~~
 
 至于`插件`选项里的东西，光是做本地媒体库的话也都用不到，于是我清理成了如下内容（BD的话以后没准用得上）
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/555.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/555.png)
 
 然后回到左侧点选`媒体库`，点击添加媒体库
 
@@ -74,7 +74,7 @@ tags:
 
 这个功能强大在哪里呢，点击创建完后的用户，你可以自定义这个用户的媒体库访问权限，保证用户拥有“专属”的媒体库
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/18844119307%20-%20Google%20Chrome%202019_12_3%2021_27_38.png)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/18844119307%20-%20Google%20Chrome%202019_12_3%2021_27_38.png)
 
 而在服务端，管理员甚至可以看到其他用户连接Emby时的进程，还可以通过控制台远程操作暂停/播放/停止客户端正在进行的视频，还能发消息~~祖安玩家请求单方面互动~~
 
@@ -170,6 +170,6 @@ tags:
 
 并且EmbyServer对内存的占用也可以接受，所以平时一直挂后台开启服务器也是可行的
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/277.PNG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/277.PNG)
 
 大概就这些，累死，歇了
