@@ -25,9 +25,9 @@ tags:								#标签
 
 或许是同病相怜的缘故，终逐渐对永远产生了爱意，并且发现永远在与自己和其他人交织的日常中，心墙出现了“裂缝”。永远对自己的改变有些许的动摇，试图后退，但终主动向永远告白，让裂缝再次地扩大，这次终清楚地感受到了永远的感情——那是**恋爱**。
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Snipaste_2021-01-30_15-29-45.png)
+![](   https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Snipaste_2021-01-30_15-29-45.png)
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Snipaste_2021-01-30_15-29-52.png)
+![](   https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Snipaste_2021-01-30_15-29-52.png)
 
 姬野永远后来接受了终的告白，两人过着每天甜甜蜜蜜没羞没臊的小日子，但终却总觉得自己忘记了什么。直到有一天，永远给终发过去一张小时候两人一起的照片，男主才终于想起被自己封存在记忆深处的事。
 
@@ -37,9 +37,9 @@ tags:								#标签
 
 终与永远约在海边见面，终一边思考着在说什么，一边试图窥探永远的内心。永远承认与终度过的这段日子很快乐，但终依然和小时候一样，随意窥测别人的内心，虽然没有恶意，但确确实实伤害了自己，让自己回想起童年的痛苦。如果说有什么不一样的地方，小时候的终至少试图去保护永远，这一次，终只是出于自私使用了能力。
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Snipaste_2021-01-31_16-05-07.png)
+![](   https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Snipaste_2021-01-31_16-05-07.png)
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Snipaste_2021-01-31_16-05-14.png)
+![](   https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Snipaste_2021-01-31_16-05-14.png)
 
 就这样吧，姬野永远对宫坂终说，“再见”。
 
@@ -49,7 +49,7 @@ tags:								#标签
 
 分手后，姬野永远剪掉了终曾经说过很喜欢的长发，仿佛宣告与过去做个了断。
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Snipaste_2021-01-31_16-07-45.png)
+![](   https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Snipaste_2021-01-31_16-07-45.png)
 
 转眼间，整整两年的时间过去了，所有人都在成长中变化，班长真希当选学生会长；好朋友大地误入歧途成了不良少年；男主角宫坂终以他和永远的恋爱故事为模板创作了小说《Star Crossed Lovers》并大卖，但终的内心是枯竭的，在学校里也更显消沉，并且一次也没有与已是同班同学的姬野永远说过话。
 
@@ -57,25 +57,25 @@ tags:								#标签
 
 当然无论是选择学妹还是幼驯染帮忙，前女友都是没追回来的，而终会在她们各自的鼓励下适应自己的能力，最终发现自己爱上了那个帮助他振作，帮助他正视自己能力的女孩子。
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Snipaste_2021-02-02_11-13-16.png)
+![](   https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Snipaste_2021-02-02_11-13-16.png)
 
 所以无论是学妹线里最后一幕的前奏时永远喃喃道：“我们重新交往吧”；还是幼驯染线的最后永远哭着大喊说我们就这样一起活在只有我们自己的世界里好不好的时候，一切都没有办法挽回了。
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Snipaste_2021-02-06_11-12-56.png)
+![](   https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Snipaste_2021-02-06_11-12-56.png)
 
 我玩这段的时候胃整个是痉挛的，每天的饭都少吃了两碗，看着男主在别的女孩子身上驰骋畋猎的时候更甚，抱怨着这傻逼引擎没有ctrl快进，只能用滚轮一句句跳过，导致我现在看见巨乳还有点反胃。至于幼驯染线后面永远恳求终的时候，如果有复合的选项我肯定毫不犹豫就点了，但是很遗憾，没有。可能爱情就是这么不讲道理吧。
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Snipaste_2021-02-06_11-11-41.png)
+![](   https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Snipaste_2021-02-06_11-11-41.png)
 
 #### True End
 
 宫坂终经历两次时空轮回，又来到了这个陌生的月台，恍惚间意识到下一班列车再也不会来的他，走在轨道上去迎接又一次的高三的夏天。睡梦中醒来后，这个世界线上的终感觉到有许多从来没有经历过的记忆涌进脑海，甚至感觉到了姬野永远的一点感情传了过来，这一次终选择主动出击，挽回破裂的感情。
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Snipaste_2021-02-06_11-42-51.png)
+![](   https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Snipaste_2021-02-06_11-42-51.png)
 
 在宫坂终的死缠烂打下，姬野永远阅读了终以他自己视角写出的小说续作，并且悲哀地发现，原来两年间一直没变的其实是她自己，心墙比以前更加封闭就是最好的证明。永远承认这两年来还是会不间断地想着终，但是两次与终的失败恋爱让自己已经很累了，如果终还是想当“命运之人”拯救自己的话，那就**结婚**吧。
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Snipaste_2021-02-06_14-48-14.png)
+![](   https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Snipaste_2021-02-06_14-48-14.png)
 
 ( ﾟДﾟ)看到这段时我的表情大概就是这样
 
@@ -83,15 +83,15 @@ tags:								#标签
 
 于是终再次在梦里来到了月台，这里其实就是姬野永远的内心世界，终找到了已经陷入自暴自弃状态的永远，在只有两人的电车上大声呼唤爱。
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Snipaste_2021-02-06_16-35-14.png)
+![](   https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Snipaste_2021-02-06_16-35-14.png)
 
 在心墙破碎的最后一刻，终将永远带了出来。就这样，永远的心墙消失了，终的能力也消失了，一切落下帷幕，走上了大团圆Happy End，真是可喜可贺可喜可贺。
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Snipaste_2021-02-06_16-45-37.png)
+![](   https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Snipaste_2021-02-06_16-45-37.png)
 
 游戏末尾回收标题，也宣告游戏的结束
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/exgirlfriend.png)
+![](   https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/exgirlfriend.png)
 
 #### 小结
 
@@ -99,11 +99,11 @@ tags:								#标签
 
 对于我来讲，可能中间那段永远以前女友的身份出现在男主身边时的戏份才更有看头，一边吃胃药一边看两个人的爱恨纠葛，辗转反复。
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Snipaste_2021-02-06_11-14-51.png)
+![](   https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Snipaste_2021-02-06_11-14-51.png)
 
 至于后面结婚之后，虽然念头上是通达了，但总感觉少点意思。讲得更芝诺一点，前女友的魅力就在于前女友这个标签，复合了的话姬野永远也就是个普通的黑长直毒舌女朋友罢了。
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/Snipaste_2021-01-30_11-30-15.png)
+![](   https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/Snipaste_2021-01-30_11-30-15.png)
 
 也许我也只是沉溺于怀念“前女友”这个标签而已，连她的样子都快记不清了。
 
