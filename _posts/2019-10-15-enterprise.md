@@ -39,7 +39,7 @@ tags:								#标签
 
 在华盛顿海军条约的制约，以及刚从经济大萧条中逃离尚未恢复完全的美国经济支持下，1936年10月3日，一个长800英尺的光滑钢制船体于纽波特纽斯造船厂下水，为她敲瓶的是露西.L.H.斯旺森（时任美国海军部长夫人）
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/SNE-n29688-crop.jpg)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/SNE-n29688-crop.jpg)
 
 只不过，当时在场的贵宾和旁观者们都不会想到，美国海军航母的一代传奇，就是始于这艘“Enterprise”，这个名字的第七位继任者
 
@@ -47,7 +47,7 @@ tags:								#标签
 
 当然，海军中也不乏拥有前瞻性眼光的军官，“蛮牛”，威廉·哈尔西（William Frederick Halsey, Jr.）便是其中之一，他对舰载机的威力十分的看好
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/d4218657ly1flvuxz2je1j207x09t3z8.jpg)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/d4218657ly1flvuxz2je1j207x09t3z8.jpg)
 
 哈尔西曾担任过数艘驱逐舰的舰长，以及两队驱逐舰分队的队长，1930年代中期，他进入了美国海军战争学院进修，并且随后修读了较艰深的飞行员课程，因为他坚持认为“飞机将在海战中具有首要地位”，完成课程后，哈尔西先后担任了萨拉托加号航空母舰舰长和彭萨科拉海军航空站站长，在对海上空中力量的重要性有了更深的理解之后，于1940年，升任中将，成为了航母舰队司令
 
@@ -159,7 +159,7 @@ tags:								#标签
 
 与此同时，企业在飞行甲板上挂出了史诗级的标语："Enterprise vs. Japan"（企业单挑日本），表明了她与船员们抗击到底的决心
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/d4218657ly1fm0eeies81j20eq0hswpc.jpg)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/d4218657ly1fm0eeies81j20eq0hswpc.jpg)
 
 直到12月5日，已修复的萨拉托加号匆匆赶到努美阿，企业才终于结束了一人苦苦支撑的日子
 
@@ -189,7 +189,7 @@ tags:								#标签
 
 在这场著名的“马里亚纳射火鸡大赛中”，日本海军上将小泽三郎战败，可以说是彻底摧毁了日本海军的空中力量
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/006E2ycpgy1fgqtpqzyebj30i408cmxp.jpg)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/006E2ycpgy1fgqtpqzyebj30i408cmxp.jpg)
 
 10月24日，企业号又参与了历史上最大的一次海战，也是整个二战的最后一场大型航母战役，莱特湾海战
 
@@ -201,7 +201,7 @@ tags:								#标签
 
 在之后的时间里，企业号又参加了大大小小的三次战役，均取得了成果，但遭到了数次神风特攻队的袭击，最后的一次奇袭更是使舰艏飞行甲板严重扭曲，升降台彻底损毁，而舰艏亦无法隔开入水，造成13人死68人受伤，并使企业号无法派出飞机，导致其在5月16日不得不入渠进行修理
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/d4218657ly4fm68i9awsaj20jg0dcq6y.jpg)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/d4218657ly4fm68i9awsaj20jg0dcq6y.jpg)
 
 而这一修就是三个月，企业号最终很可惜地错过了日军的投降仪式
 
@@ -213,7 +213,7 @@ tags:								#标签
 
 1956年10月2日，海军将企业号从海军名册除籍，预备出售拆解，然而这一举动遭到了在1954年成立的企业号老兵组织的抗议，他们得到了回应——他们有机会留住这艘传奇航母，但必须在半年内筹募二百万美金，以支付舰艇保存费用
 
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/d4218657ly1fm0i34ptr1j20kk0fq7m2.jpg)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/d4218657ly1fm0i34ptr1j20kk0fq7m2.jpg)
 
 然而，筹款运动最终失败，最终老兵组织与海军达成妥协，放弃保留企业号，并得到了以下条件：第一，正在建造的全球第一艘核动力航空母舰须命名为企业号；第二，组织可以10000美元的低价捐款，将建造中的海军及陆战队纪念球场两座升降机大楼命名为企业；第三，海军须捐赠企业号可留为纪念的物品或建筑， 1958年7月1日，企业号舰体以561,333美元出售，同年秋季企业号开始拆解，工序在1960年3月完成
 
@@ -244,7 +244,7 @@ tags:								#标签
 她不曾落下一场太平洋海战的重要战役，满身伤痕却不停止战斗的脚步，勇敢而又活跃，幸运而又强大
 
 但她也是孤独的，约克城级的最后一人，她咬着牙克服了孤独，跨越了USN的两个时代
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_3578.PNG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_3578.PNG)
 
 就像是历史的重演，改造后的她，即将奔赴战场，不过这次，有人与她同行
-![](https://raw.githubusercontent.com/NoordZeedebuTirpitz/pic/master/IMG_3575.PNG)
+![](https://cdn.jsdelivr.net/gh/NoordZeedebuTirpitz/pic/IMG_3575.PNG)
