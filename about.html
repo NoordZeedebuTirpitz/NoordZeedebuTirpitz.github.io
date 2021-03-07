@@ -93,7 +93,7 @@ header-img: "img/post-bg-rwd.JPG"
 
 
 <!-- Gitalk 评论 start  -->
-
+{% if site.gitalk.enable %}
 <!-- Link Gitalk 的支持文件  -->
 <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
 <script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script> 
@@ -111,4 +111,5 @@ header-img: "img/post-bg-rwd.JPG"
     });
     gitalk.render('gitalk-container');
 </script> 
+{% endif %}
 <!-- Gitalk end -->
